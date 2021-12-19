@@ -7,7 +7,3 @@
 [ My first Nextjs app ](https://next-js-tutorial-seven-psi.vercel.app/)
 
 ## 개선할 내용
-- [ ] 공식문서에서 설명한 내용 더 자세히 넣어보기
-- [ ] 방명록 구현해보기
-- [ ] 방문자 수 구현해보기
-
